@@ -120,36 +120,34 @@ Considerar la Taxonomía de Bloom
 <i>SECCIÓN 2–6 El circuito eléctrico</i>
 <dl>
 <dd>32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.</dd>
-
-      
-      
+<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.269.JPG"></dd>
       Nuevo circuito
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej32.JPG">
+ <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej32.JPG"></dd>
 
-<dd>34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la                posición de los interruptores?</dd>
-
- 
+<dd>34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?</dd>
+<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.270.JPG"></dd>
       Existe corriente a través del resistor R5 
 <dd>36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.</dd>
+ <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.271.JPG"></dd>
+ Con interruptor
  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej36.JPG">
   </dl>
  <p><i>SECCIÓN 2–7 Mediciones de circuito básicas</i>
 <dl>
 <dd>38. Explique cómo mediría la resistencia de R2 en la figura 2-72.</dd>
- 
-      El voltaje representa el valor total de la suma de las resistencias presentes en el circuito, por ende, basta con restar el voltaje y la resistencia de R1, para así obtener         el resultado de la resistencia de R2.
-
-<dd>40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale       de la fuente de voltaje sin importar la posición del interruptor.</dd>
- 
- 
-<dd>42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada        resistor presente en la figura 2-70.</dd>
- 
+ <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.272.JPG"></dd>
+ <dd>El voltaje representa el valor total de la suma de las resistencias presentes en el circuito, por ende, basta con restar el voltaje y la resistencia de R1, para así obtener el resultado de la resistencia de R2.</dd>
+<dd>40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.</dd>
+<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.273.JPG"></dd>
+ Con amperímetro
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej40.JPG">
+<dd>42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.</dd>
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej42.JPG">
 <dd>44. ¿Cuánta resistencia está midiendo el óhmetro de la figura 2-75?</dd>
- 
-      La resistencia correspondiente que se mide es de 100Ω, ya que la aguja se encuentra ubicado en el número 10, correspondiente a Ω y se multiplica x10, valor señalado con la perilla del multímetro.
-
-<dd>46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
-      La resolución máxima de un multímetro digital de 4 1/2 dígitos mostrará hasta 19.999             recuentos de resolución.</dd>
+ <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.275.JPG"></dd>
+<dd>La resistencia correspondiente que se mide es de 100Ω, ya que la aguja se encuentra ubicado en el número 10, correspondiente a Ω y se multiplica x10, valor señalado con la perilla del multímetro.</dd>
+ <dd>46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?</dd>
+<dd>La resolución máxima de un multímetro digital de 4 1/2 dígitos mostrará hasta 19.999 recuentos de resolución.</dd>
   </dl>
 <b>VIDEO
 
