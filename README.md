@@ -99,8 +99,7 @@ Considerar la Taxonomía de Bloom
 <i>SECCIÓN 2–4 Fuentes de voltaje y de corriente</i>
 <dl>
 <dd>18. ¿En qué principio se basan los generadores eléctricos?</dd>
-      Se basan en el principio de la inducción electromagnética
- 
+ <dd>Se basan en el principio de la inducción electromagnética</dd>
 <dd>20. Cierta fuente de corriente proporciona 100 mA a 1 kOhms de carga. Si la resistencia disminuye a 500 Ohms, ¿cuál es la corriente en la carga?</dd>  
  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej20.JPG">
  </dl>
@@ -117,7 +116,7 @@ Considerar la Taxonomía de Bloom
     
 <dd>30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:</dd>
  </dl>
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej30.JPG">
+ <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej30.JPG"></dd>
 <i>SECCIÓN 2–6 El circuito eléctrico</i>
 <dl>
 <dd>32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.</dd>
