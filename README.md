@@ -6,13 +6,11 @@
 Objetivo Generales:
 
 Objetivos Específicos:
-
-1)
-
-2)
-
-3)
-
+<ul>
+ <li>hola</li>
+ <li>hola</li>
+ <li>hola</li>
+</ul>
 Considerar la Taxonomía de Bloom
 
 <b>MARCO TEÓRICO <p>
@@ -112,8 +110,7 @@ Considerar la Taxonomía de Bloom
 <dd>26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:</dd>
 <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej26.JPG">
 <dd>28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 omhs, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?</dd>
- La resistencia entre cada terminal sería 500Ω, ya que al encontrarse el amperímetro en el centro y a su vez, tener una resistencia total de 1000Ω, este se divide.
-    
+ <dd>La resistencia entre cada terminal sería 500Ω, ya que al encontrarse el amperímetro en el centro y a su vez, tener una resistencia total de 1000Ω, este se divide.</dd>    
 <dd>30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:</dd>
  </dl>
  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej30.JPG"></dd>
@@ -121,15 +118,15 @@ Considerar la Taxonomía de Bloom
 <dl>
 <dd>32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.</dd>
 <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.269.JPG"></dd>
-      Nuevo circuito
+ <dd>Circuito con Fusible</dd>
  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej32.JPG"></dd>
 
 <dd>34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?</dd>
 <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.270.JPG"></dd>
-      Existe corriente a través del resistor R5 
+ <dd>Existe corriente a través del resistor R5</dd>
 <dd>36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.</dd>
  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.271.JPG"></dd>
- Con interruptor
+ <dd>Con interruptor</dd>
  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej36.JPG">
   </dl>
  <p><i>SECCIÓN 2–7 Mediciones de circuito básicas</i>
@@ -139,10 +136,17 @@ Considerar la Taxonomía de Bloom
  <dd>El voltaje representa el valor total de la suma de las resistencias presentes en el circuito, por ende, basta con restar el voltaje y la resistencia de R1, para así obtener el resultado de la resistencia de R2.</dd>
 <dd>40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.</dd>
 <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.273.JPG"></dd>
- Con amperímetro
+ <dd>Con amperímetro</dd>
   <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej40.JPG">
-<dd>42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.</dd>
-  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej42.JPG">
+ <dd>Primero hay que asegurarse
+de que el ajuste del intervalo del amperímetro es mayor que la corriente esperada, y entonces
+se conecta el amperímetro en la trayectoria de la corriente abriendo primero el circuito, como
+indica la parte (b). Acto seguido se inserta el medidor en la forma que muestra la parte (c). Tal conexión
+es una conexión en serie. La polaridad del medidor debe ser tal que la corriente esté en la
+terminal positiva y salga por la terminal negativa.</dd>
+ <dd>42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.</dd>
+<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej42.JPG">
+<dd>La terminar negativa del voltímetro debe conectarse el lado negativo del circuito y la terminal positiva debe conectarse al lado positivo del circuito</dd>
 <dd>44. ¿Cuánta resistencia está midiendo el óhmetro de la figura 2-75?</dd>
  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.275.JPG"></dd>
 <dd>La resistencia correspondiente que se mide es de 100Ω, ya que la aguja se encuentra ubicado en el número 10, correspondiente a Ω y se multiplica x10, valor señalado con la perilla del multímetro.</dd>
