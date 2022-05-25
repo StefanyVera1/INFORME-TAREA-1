@@ -120,7 +120,6 @@ Considerar la Taxonomía de Bloom
 <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.269.JPG"></dd>
  <dd>Circuito con Fusible</dd>
  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej32.JPG"></dd>
-
 <dd>34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?</dd>
 <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.270.JPG"></dd>
  <dd>Existe corriente a través del resistor R5</dd>
@@ -138,12 +137,7 @@ Considerar la Taxonomía de Bloom
 <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.273.JPG"></dd>
  <dd>Con amperímetro</dd>
   <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej40.JPG">
- <dd>Primero hay que asegurarse
-de que el ajuste del intervalo del amperímetro es mayor que la corriente esperada, y entonces
-se conecta el amperímetro en la trayectoria de la corriente abriendo primero el circuito, como
-indica la parte (b). Acto seguido se inserta el medidor en la forma que muestra la parte (c). Tal conexión
-es una conexión en serie. La polaridad del medidor debe ser tal que la corriente esté en la
-terminal positiva y salga por la terminal negativa.</dd>
+ <dd>Dado que es una serie en paralelo, se conecta el amperímetro en el primer circuito reflejado, que en este caso, es entre el Vs y la resistencia R1. La polaridad de la corriente debe ingresar por la terminal positiva y salir por la terminal negativa.</dd>
  <dd>42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.</dd>
 <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej42.JPG">
 <dd>La terminar negativa del voltímetro debe conectarse el lado negativo del circuito y la terminal positiva debe conectarse al lado positivo del circuito</dd>
@@ -160,5 +154,7 @@ terminal positiva y salga por la terminal negativa.</dd>
 
 
 <b>BIBLIOGRAFÍA
+ <dd>Floyde, T.(2007)<i>Principios de Circuitos Eléctricos</i> https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
+ <dd>Fluke Corporation(2006)<i>Conceptos básicos de los multímetros digitales</i> https://www.interempresas.net/FeriaVirtual/Catalogos_y_documentos/5159/13155-spa-w.pdf</dd>
   </body>
   </html>
