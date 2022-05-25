@@ -5,10 +5,10 @@ OBJETIVOS
 Objetivo Generales:
 
 Objetivos Específicos:
-1)
+ul,ol{1)
 2)
 3)
-
+}
 
 
 Considerar la Taxonomía de Bloom
