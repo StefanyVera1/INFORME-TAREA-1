@@ -26,37 +26,38 @@ Considerar la Taxonomía de Bloom
 
 <dl>
 <dd>2. Exprese cada número fraccionario en notación científica:</dd>
-  
+ <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej2.JPG"></dd>  
 <dd>4. Exprese cada uno de los números siguientes en notación científica:</dd>
-  
+ <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej4.JPG"></dd>
 <dd>6. Exprese cada uno de los números siguientes como un número decimal regular:</dd>
-  
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej6.JPG"></dd>
 <dd>8. Exprese cada número de los siguientes como un número decimal regular:</dd>
-  
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej8.JPG"></dd>
 <dd>10. Efectúe las siguientes sustracciones:</dd>
-  
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej10.JPG"></dd>
 <dd>12. Realice las siguientes divisiones:</dd>
+ <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej12.JPG"></dd>
 </dl>
 
 <i>SECCIÓN 1–3 Notación de ingeniería y prefijos métricos</i>
 <dl>
 <dd>14. Exprese cada número en notación de ingeniería:</dd>
-  
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej14.JPG"></dd>
 <dd>16. Exprese cada número en notación de ingeniería:</dd>
-  
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej16.JPG"></dd>
 <dd>18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:</dd>
-  
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej18.JPG"></dd>
 <dd>20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico.</dd>
-  
-<dd>22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo           métrico:</dd>
-  
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej20.JPG"></dd>
+<dd>22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:</dd>
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej22.JPG"></dd>
 <dd>24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:</dd>
-  
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej24.JPG"></dd>
 <dd>26. Exprese cada cantidad en notación de ingeniería:</dd>
-
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej26.JPG"></dd>
 </dl>
 <i>SECCIÓN 1–4 Conversiones de unidades métricas</i>
-
+<dl>
 <dd>28. Determine lo siguiente:</dd>
   
       (a)	El número de microamperes en 1 miliampere
@@ -72,8 +73,8 @@ Considerar la Taxonomía de Bloom
        d) 0.000155Kw
 
 <dd>30. Realice las siguientes operaciones:</dd>
-
-
+ <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/ej30.JPG"></dd>
+ </dl>
 <p><b>SECCIÓN 2
 
 <i>SECCIÓN 2–2 Carga eléctrica</i>
@@ -100,23 +101,24 @@ Considerar la Taxonomía de Bloom
 <dd>18. ¿En qué principio se basan los generadores eléctricos?</dd>
       Se basan en el principio de la inducción electromagnética
 
-<dd>20. Cierta fuente de corriente proporciona 100 mA a 1 kOhms de carga. Si la resistencia</dd>            disminuye a 500 Ohms, ¿cuál es la corriente en la carga?
+<dd>20. Cierta fuente de corriente proporciona 100 mA a 1 kOhms de carga. Si la resistencia disminuye a 500 Ohms, ¿cuál es la corriente en la carga?</dd>  
  
 <i>SECCIÓN 2–5 Resistores</i>
 
-<dd>22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada          resistor del problema 21.</dd>
+<dd>22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.</dd>
   
-<dd>24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4           bandas:</dd>
+<dd>24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:</dd>
 
-<dd>26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5           bandas:</dd>
+<dd>26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:</dd>
 
-<dd>28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su           ajuste. Si la resistencia total es de 1000 omhs, ¿cuál es la resistencia entre cada             terminal y el contacto ajustable?</dd>
+<dd>28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 omhs, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?</dd>
+ La resistencia entre cada terminal sería 500Ω, ya que al encontrarse el amperímetro en el centro y a su vez, tener una resistencia total de 1000Ω, este se divide.
     
 <dd>30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:</dd>
 
 <i>SECCIÓN 2–6 El circuito eléctrico</i>
 
-<dd>32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d)       con un fusible conectado para proteger el circuito contra corriente excesiva.</dd>
+<dd>32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.</dd>
  
       
       
@@ -131,7 +133,7 @@ Considerar la Taxonomía de Bloom
 <dd>36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques         que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para         conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de       AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un         momento dado, solamente una sección puede ser conectada al amplificador.</dd>
  
  
- <i>SECCIÓN 2–7 Mediciones de circuito básicas</i>
+ <p><i>SECCIÓN 2–7 Mediciones de circuito básicas</i>
 
 <dd>38. Explique cómo mediría la resistencia de R2 en la figura 2-72.</dd>
  
@@ -145,7 +147,7 @@ Considerar la Taxonomía de Bloom
 <dd>44. ¿Cuánta resistencia está midiendo el óhmetro de la figura 2-75?</dd>
  
       
-      La resistencia correspondiente que se mide es de 100 Ohms
+      La resistencia correspondiente que se mide es de 100Ω, ya que la aguja se encuentra ubicado en el número 10, correspondiente a Ω y se multiplica x10, valor señalado con la perilla del multímetro.
 
 <dd>46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
       La resolución máxima de un multímetro digital de 4 1/2 dígitos mostrará hasta 19.999             recuentos de resolución.</dd>
