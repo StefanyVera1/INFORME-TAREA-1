@@ -1,5 +1,4 @@
-# INFORME-TAREA-1
-# InformeTarea
+# InformeTarea1
 
 OBJETIVOS
 Objetivo Generales:
