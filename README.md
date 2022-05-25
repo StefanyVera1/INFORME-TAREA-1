@@ -3,8 +3,10 @@
  <titlte></tile>
  <body>
  <b>OBJETIVOS<p> 
-Objetivo Generales:
-
+Objetivo General:
+<dl>
+ <dd></dd>
+</dl>
 Objetivos Específicos:
 <ul>
  <li>hola</li>
