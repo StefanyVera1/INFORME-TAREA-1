@@ -1,6 +1,9 @@
 # InformeTarea1
 
-OBJETIVOS
+<html>
+  <titlte></tile>
+  <body>
+    OBJETIVOS
 Objetivo Generales:
 
 Objetivos Específicos:
@@ -151,3 +154,5 @@ CONCLUSIONES
 
 
 BIBLIOGRAFÍA
+  </body>
+  </html>
