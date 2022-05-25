@@ -154,7 +154,9 @@ Considerar la Taxonomía de Bloom
 
 
 <b>BIBLIOGRAFÍA
+ <dl>
  <dd>Floyde, T.(2007)<i>Principios de Circuitos Eléctricos</i> https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
  <dd>Fluke Corporation(2006)<i>Conceptos básicos de los multímetros digitales</i> https://www.interempresas.net/FeriaVirtual/Catalogos_y_documentos/5159/13155-spa-w.pdf</dd>
+ </dl>
   </body>
   </html>
