@@ -5,11 +5,12 @@ OBJETIVOS
 Objetivo Generales:
 
 Objetivos Específicos:
-ul,ol{1)
-2)
-3)
-}
 
+1)
+
+2)
+
+3)
 
 Considerar la Taxonomía de Bloom
 
@@ -27,7 +28,9 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 SECCIÓN 1
-SECCIÓN 1–2 Notación científica
+
+SECCIÓN 1–2 Notación científica 
+
   2. Exprese cada número fraccionario en notación científica:
   
   4. Exprese cada uno de los números siguientes en notación científica:
@@ -42,6 +45,7 @@ SECCIÓN 1–2 Notación científica
 
 
 SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
+
   14. Exprese cada número en notación de ingeniería:
   
   16. Exprese cada número en notación de ingeniería:
@@ -58,13 +62,16 @@ SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
 
 
 SECCIÓN 1–4 Conversiones de unidades métricas
+
   28. Determine lo siguiente:
   
   30. Realice las siguientes operaciones:
 
 
 SECCIÓN 2
+
 SECCIÓN 2–2 Carga eléctrica
+
   2. ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
 
   4. ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
@@ -83,12 +90,14 @@ SECCIÓN 2–2 Carga eléctrica
 
 
 SECCIÓN 2–4 Fuentes de voltaje y de corriente
+
   18. ¿En qué principio se basan los generadores eléctricos?
       Se basan en el principio de la inducción electromagnética
 
   20. Cierta fuente de corriente proporciona 100 mA a 1 kOhms de carga. Si la resistencia             disminuye a 500 Ohms, ¿cuál es la corriente en la carga?
  
 SECCIÓN 2–5 Resistores
+
   22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada          resistor del problema 21.
   
   24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4           bandas:
@@ -100,6 +109,7 @@ SECCIÓN 2–5 Resistores
   30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
 
 SECCIÓN 2–6 El circuito eléctrico
+
   32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d)       con un fusible conectado para proteger el circuito contra corriente excesiva.
  
       
@@ -116,9 +126,10 @@ SECCIÓN 2–6 El circuito eléctrico
  
  
 SECCIÓN 2–7 Mediciones de circuito básicas
+
   38. Explique cómo mediría la resistencia de R2 en la figura 2-72.
  
-      El voltaje representa el valor total de la suma de las resistencias presentes en el             circuito, por ende, basta con restar el voltaje y la resistencia de R1, para así obtener         el resultado de la resistencia de R2.
+      El voltaje representa el valor total de la suma de las resistencias presentes en el circuito, por ende, basta con restar el voltaje y la resistencia de R1, para así obtener         el resultado de la resistencia de R2.
 
   40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale       de la fuente de voltaje sin importar la posición del interruptor.
  
