@@ -1,9 +1,8 @@
 # InformeTarea1
-
 <html>
-  <titlte></tile>
-  <body>
-    OBJETIVOS
+ <titlte></tile>
+ <body>
+ OBJETIVOS<p> 
 Objetivo Generales:
 
 Objetivos Específicos:
@@ -16,7 +15,7 @@ Objetivos Específicos:
 
 Considerar la Taxonomía de Bloom
 
-MARCO TEÓRICO (RESUMEN)
+MARCO TEÓRICO (RESUMEN)<p>
 Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
 
 Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
