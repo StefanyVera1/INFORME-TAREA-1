@@ -67,22 +67,22 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 
 <dd>28. Determine lo siguiente:</dd>
   
-      (a)	El número de microamperes en 1 miliampere <p>
+      (a)	El número de microamperes en 1 miliampere
        a)	1000uA
 
-      (b)	El número de milivolts en 0.05 kilovolts <p>
+      (b)	El número de milivolts en 0.05 kilovolts
        b)	50000 mV
 
-      (c)	El número de megohms en 0.02 kΩ<p>
+      (c)	El número de megohms en 0.02 kΩ
        c)	0.00002 MΩ
 
-      (d)	El número de kilowatts en 155 miliwatts<p>
+      (d)	El número de kilowatts en 155 miliwatts
        d) 0.000155Kw
 
 <dd>30. Realice las siguientes operaciones:</dd>
 
 
-<b>SECCIÓN 2
+<p><b>SECCIÓN 2
 
 <i>SECCIÓN 2–2 Carga eléctrica</i>
 
@@ -90,7 +90,7 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 
 <dd>4. ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?</dd>
 
-<dd>6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál        es el voltaje a través del resistor?</dd>
+<dd>6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?</dd>
 
 <dd>8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?</dd>
 
