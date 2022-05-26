@@ -5,16 +5,14 @@
  <b>OBJETIVOS<p> 
 Objetivo General:
 <dl>
- <dd></dd>
+ <dd>Comprender varios conceptos básicos de estudio en fundamentos de circuitos eléctricos, así como los componentes que pueden implementarse en la práctica, logrando de esta forma, reforzar los temas tratados durante la clase dada.</dd>
 </dl>
 Objetivos Específicos:
 <ul>
- <li>hola</li>
- <li>hola</li>
- <li>hola</li>
+ <li>Analizar las unidades de medida y las conversiones correspondientes de acuerdo al uso dado.</li>
+ <li>Definir de manera clara y concisa los conceptos de voltaje, corriente y resistencia, ya que estos se aplican en los ejercicios que se encuentran en el presente informe.</li>
+ <li>Conocer los distintos dispositivos de medida e interpretar los resultados que se obtienen mediante los mismos.</li>
 </ul>
-Considerar la Taxonomía de Bloom
-
 <b>MARCO TEÓRICO <p>
  <dl>
   <dd>SECCIÓN 1</dd>
