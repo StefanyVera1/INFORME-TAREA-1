@@ -143,7 +143,7 @@ Objetivos Específicos:
  <dd>Dado que es una serie en paralelo, se conecta el amperímetro en el primer circuito reflejado, que en este caso, es entre el Vs y la resistencia R1. La polaridad de la corriente debe ingresar por la terminal positiva y salir por la terminal negativa.</dd>
  <dd>42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.</dd>
 <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej42.JPG">
-<dd>La terminar negativa del voltímetro debe conectarse el lado negativo del circuito y la terminal positiva debe conectarse al lado positivo del circuito</dd>
+<dd>La terminal negativa del voltímetro debe conectarse el lado negativo del circuito y la terminal positiva debe conectarse al lado positivo del circuito</dd>
 <dd>44. ¿Cuánta resistencia está midiendo el óhmetro de la figura 2-75?</dd>
  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.275.JPG" width="450" height="500"></dd>
 <dd>La resistencia correspondiente que se mide es de 100Ω, ya que la aguja se encuentra ubicado en el número 10, correspondiente a Ω y se multiplica x10, valor señalado con la perilla del multímetro.</dd>
