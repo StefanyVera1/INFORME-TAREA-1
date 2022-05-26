@@ -16,7 +16,10 @@ Objetivos Específicos:
 Considerar la Taxonomía de Bloom
 
 <b>MARCO TEÓRICO <p>
-
+ <dl>
+  <dd>SECCIÓN 1</dd>
+   <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/cap1.jpg"></dd>  
+ </dl>
 
 <b>EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
