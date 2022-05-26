@@ -116,12 +116,11 @@ Objetivos Específicos:
 <dd>28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 omhs, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?</dd>
  <dd>La resistencia entre cada terminal sería 500Ω, ya que al encontrarse el amperímetro en el centro y a su vez, tener una resistencia total de 1000Ω, este se divide.</dd>    
 <dd>30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:</dd>
- </dl>
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej30.JPG"></dd>
+ <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej30.JPG"></dd></dl>
 <i>SECCIÓN 2–6 El circuito eléctrico</i>
 <dl>
 <dd>32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.</dd>
-<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.269.JPG"></dd>
+<dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.269.JPG" width="600" height="400"></dd>
  <dd>Circuito con Fusible</dd>
  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej32.JPG"></dd>
 <dd>34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?</dd>
@@ -146,7 +145,7 @@ Objetivos Específicos:
 <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/ej42.JPG">
 <dd>La terminar negativa del voltímetro debe conectarse el lado negativo del circuito y la terminal positiva debe conectarse al lado positivo del circuito</dd>
 <dd>44. ¿Cuánta resistencia está midiendo el óhmetro de la figura 2-75?</dd>
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.275.JPG"></dd>
+ <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/fig.275.JPG" width="450" height="500"></dd>
 <dd>La resistencia correspondiente que se mide es de 100Ω, ya que la aguja se encuentra ubicado en el número 10, correspondiente a Ω y se multiplica x10, valor señalado con la perilla del multímetro.</dd>
  <dd>46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?</dd>
 <dd>La resolución máxima de un multímetro digital de 4 1/2 dígitos mostrará hasta 19.999 recuentos de resolución.</dd>
@@ -155,8 +154,9 @@ Objetivos Específicos:
 
 
 <b>CONCLUSIONES
-
-
+ <dl>
+  <dd>Una vez realizada la revisión respectiva del capítulo 1 y 2 se determina que es primordial comprender los conceptos básicos de fundamentos de circuitos ya que, al emplearlos en los ejercicios planteados, es necesario aplicar las fórmulas adecuadas para obtener los resultados requeridos, y en varios casos, se precisa convertir a distintas unidades métricas. Así como también es esencial implementar de manera adecuada los instrumentos, ya que si no se da el uso apropiado, este puede causar daños en un circuito al aplicarlo en la vida real o peor aún, causar daños a la persona que manipula los dispositivos eléctricos y electrónicos.</dd>
+ </dl>
 <b>BIBLIOGRAFÍA
  <dl>
  <dd>Floyde, T.(2007)<i>Principios de Circuitos Eléctricos</i> https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
