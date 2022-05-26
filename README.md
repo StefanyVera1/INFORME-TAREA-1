@@ -18,10 +18,11 @@ Considerar la Taxonomía de Bloom
 <b>MARCO TEÓRICO <p>
  <dl>
   <dd>SECCIÓN 1</dd>
-   <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/cap1.jpg"></dd>  
- </dl>
-
-<b>EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+   <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec1/cap1.jpg" width="600" height="750"></dd>  
+ <dd>SECCIÓN 2</dd>
+  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-1/blob/main/img/sec2/cap2.jpg" width="600" height="750"></dd>
+</dl>
+  <b>EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 <b>SECCIÓN 1
 
